@@ -5,3 +5,16 @@
 - Train using GPU cluster
 - Deploy on webserver
 - Make nice UI
+
+## About me
+- MSc Mathematical Modelling and Computation at the Technical University of Denmark (DTU). 
+- Academic interests:
+  - Cognitive modelling
+  - Bayesian deep learning
+  - Statictical modelling
+  - Numerical optimisation
+- General interests:
+  - Entrepreneurship
+  - Society
+  - Sustainability 
+  - Crossfit
