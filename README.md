@@ -7,7 +7,7 @@
 - Make nice UI
 
 ## About me
-- Ms Mathematical Modelling and Computation at the Technical University of Denmark (DTU). 
+- MSc Mathematical Modelling and Computation at the Technical University of Denmark (DTU). 
 - Academic interests:
   - Cognitive modelling
   - Bayesian deep learning
