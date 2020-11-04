@@ -1,7 +1,7 @@
 # DrawingInterpreter
 
 ## Agenda week 1-3
-- Create ML model on digits
+- Create ML model for recognize digits
 - Train using GPU cluster
 - Deploy on webserver
 - Make nice UI
