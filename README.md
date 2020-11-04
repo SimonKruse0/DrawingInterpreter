@@ -1,4 +1,4 @@
-# DrawingInterpreter
+# Drawing Interpreter Project
 
 ## Agenda week 1-3
 - Create ML model for recognize digits
